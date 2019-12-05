@@ -38,7 +38,7 @@ export default class ChromeBoisDomain extends Component {
         onKeyDown={this.determineKeyCode}
         width='1000'
         height='500'
-        tabIndex="0">
+        tab="0">
       </canvas>
     )
   }
